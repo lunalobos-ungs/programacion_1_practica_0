@@ -15,6 +15,8 @@ public class Ejercicio29 {
         System.out.println("El promedio es " + promedio(arreglo));
     }
 
+
+
     static double promedio(double[] a){
         var suma = 0.0;
         for( var i = 0; i < a.length; i++){
